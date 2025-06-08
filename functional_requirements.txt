@@ -1,0 +1,4 @@
+Validate user email domain during registration
+1. User Registration Process
+   - User submits registration form with email address.
+   - System checks if the email domain is in the approved list.
